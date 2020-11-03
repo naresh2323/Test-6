@@ -1,1 +1,2 @@
 1st line added to master in the github.com
+2nd line added to master in the gitbash
