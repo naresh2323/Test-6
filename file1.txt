@@ -1,2 +1,4 @@
 1st line added to master in the github.com
 2nd line added to master in the gitbash
+3rd line adde to master in the gitbash master
+5thline adde to master in the gitbash branch1
